@@ -17,11 +17,13 @@
 	grid-area: main;
 	border-radius: 1em;
 	align-items: center;
+	padding: 5%;
 }
 
 .section {
 	grid-area: section;
 	border-radius: 1em;
+	padding: 5%;
 }
 
 .footer {
