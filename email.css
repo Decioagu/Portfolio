@@ -1,10 +1,11 @@
  /* Centralizar o formulário na pagina */
 form {
   margin: 0 auto;
-  width: 400px;
+  width: 500px;
   padding: 1em;
-  border: 1px solid #CCC;
+  border: 2px solid #CCC;
   border-radius: 1em;
+  color: rgb(255, 255, 255);
 }
   
 form div + div {
@@ -21,7 +22,7 @@ label {
 /* configuração campos de texto */
 input, textarea {
   font: 1em sans-serif;
-  width: 300px;
+  width: 400px;
   box-sizing: border-box;
   border: 1px solid #999;
 }
@@ -34,7 +35,7 @@ input:focus, textarea:focus {
 /* alinhar texto */
 textarea {
   vertical-align: top;
-  height: 5em;
+  height: 6em;
 }
 
 /* posição do botõe */
